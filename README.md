@@ -39,14 +39,23 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![WhatsApp Image 2024-12-16 at 10 01 07 AM](https://github.com/user-attachments/assets/c4b0da04-2cb3-4c40-8033-505d0b33dbb8)
+![WhatsApp Image 2024-12-16 at 10 00 58 AM (1)](https://github.com/user-attachments/assets/2c2bb3ff-6d49-40ba-805c-1a118d14c3aa)
+![WhatsApp Image 2024-12-16 at 10 00 48 AM](https://github.com/user-attachments/assets/dd9e0bbe-fa12-4529-a1c1-6e859622a370)
 
 ## Output:
+![WhatsApp Image 2024-12-16 at 10 19 31 AM](https://github.com/user-attachments/assets/676d30bb-fa86-49c9-b9ce-8832aeed505a)
+![WhatsApp Image 2024-12-16 at 10 03 51 AM](https://github.com/user-attachments/assets/9f27e1f0-d1b1-4981-8201-6279bcbb8cba)
+![WhatsApp Image 2024-12-16 at 10 01 58 AM (1)](https://github.com/user-attachments/assets/8560f4b6-477b-465c-b2ae-7dd148749165)
+![WhatsApp Image 2024-12-16 at 10 03 47 AM](https://github.com/user-attachments/assets/f879dfc9-b8f6-47bf-a5b0-6850fea96ee1)
+![WhatsApp Image 2024-12-16 at 10 03 48 AM](https://github.com/user-attachments/assets/f054711d-a2d8-4a8e-bd2d-e792a7388331)
+![WhatsApp Image 2024-12-16 at 10 03 29 AM](https://github.com/user-attachments/assets/fbaa4494-39d9-4988-b81f-ddeb7414a03c)
 
-### Name:
-### Register Number:
+
+
+
+### Name:R N Somnath
+### Register Number:24000580
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
